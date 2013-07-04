@@ -1,9 +1,15 @@
 # SQL Regular Expressions #
 
-This helps provide regular expression functionalities for MS-SQL servers
+MS SQL Server doesn't support regular expression features directly. However, it can register .NET CLR assemblies to extend its capability. This helps provide regular expression functionalities for MS SQL servers.
+
+
+# Compatibility #
+
+This runs on .NET Framework 3.5 or higher, which supports MS SQL Server 2008 or later.
 
 
 # Documentation #
+
 Please refer to the [wiki](https://github.com/aliencube/SQL-Regular-Expressions/wiki) page.
 
 
